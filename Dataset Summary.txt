@@ -1,0 +1,21 @@
+Nama Dataset 	: Seattle Weather
+Link Dataset 		: https://www.kaggle.com/datasets/ananthr1/weather-prediction/data?select=seattle-weather.csv 
+Kolom 		: 6
+Baris			: 1461
+Missing Value 	: 0
+Numeric 		: 4
+Time series/date	: 1 
+Kategorikal 		: 1
+
+
+
+Dataset ini menyajikan data cuaca harian dengan informasi mengenai presipitasi (precipitation), suhu maksimum (temp_max), suhu minimum (temp_min), kecepatan angin (wind), dan kondisi cuaca (weather). Kondisi cuaca terdiri dari beberapa kategori, yaitu drizzle, rain, sun, snow, dan fog. Data ini dapat digunakan untuk menganalisis pola cuaca harian dan membuat prediksi berdasarkan kondisi cuaca yang ada.
+Penjelasan Kolom 
+date : Tanggal pengamatan cuaca (tipe: time series).
+precipitation : Jumlah presipitasi dalam milimeter (tipe: numerik).
+temp_max : Suhu maksimum dalam derajat Celcius (tipe: numerik).
+temp_min : Suhu minimum dalam derajat Celcius (tipe: numerik).
+wind : Kecepatan angin dalam kilometer per jam (tipe: numerik).
+weather : Kategori kondisi cuaca (tipe: kategorik).
+
+
