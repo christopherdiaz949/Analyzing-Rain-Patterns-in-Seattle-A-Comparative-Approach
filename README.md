@@ -1,0 +1,2 @@
+# Analyzing-Rain-Patterns-in-Seattle-A-Comparative-Approach-Using-KNN-and-SVM-Methods
+In this project, I analyzed Seattle’s rain patterns to develop an accurate weather classification model, applying K-Nearest Neighbors (KNN) and Support Vector Machine (SVM) algorithms. This project enhanced my technical expertise in machine learning and reinforced my analytical skills in handling large meteorological datasets.
